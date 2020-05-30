@@ -30,6 +30,7 @@ try {
 *
 */
 module.exports = {
+    pathPrefix: `/allblog`,
     siteMetadata: {
         siteUrl: config.siteUrl,
     },

@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/allblog`,
   siteMetadata: {
     title: `Gatsby Starter Blog MDX`,
     author: `Matt Hagner`,
